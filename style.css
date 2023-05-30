@@ -1,0 +1,25 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+.header{
+    width: 98%;
+    text-align: left;
+}
+.header button{
+    float: right;
+    margin-right: 10px;
+    border: 2px solid black;
+}
+.header h3{
+    display: inline;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color: darkslategrey;
+    color: aqua;
+    width: 100%;
+    line-height: 30px;
+}
